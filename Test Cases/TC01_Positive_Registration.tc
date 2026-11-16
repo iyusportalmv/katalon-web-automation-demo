@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that a user can successfully submit the registration form with valid data (Name, Email, Phone Number, and correct Math CAPTCHA) and is redirected to the confirmation page.</description>
+   <name>TC01_Positive_Registration</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Iyus Somantri</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Iyus Somantri</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>9e0e235e-044b-4c0f-bbbe-62df7bed1b68</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>9e0e235e-044b-4c0f-bbbe-62df7bed1b68</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a8976ca-1b6c-495c-a25c-e7e38053bef6</testCaseGuid>
+</TestCaseEntity>

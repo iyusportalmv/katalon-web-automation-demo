@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Masukkan jawaban</name>
+   <tag></tag>
+   <elementGuidId>b52bb5b1-b9e9-41c9-8f92-14f2c69b5d5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#captchaAnswer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'captchaAnswer']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan jawaban&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>18ad966e-f611-493b-8f5b-d4bef26ea148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>d6a1b2e1-84f8-4049-bf58-ffc0d3b18283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>captchaAnswer</value>
+      <webElementGuid>f0c748ad-0eda-4810-9971-1ffdd13c71d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>captchaAnswer</value>
+      <webElementGuid>35b07c06-6abd-4d4e-9c5c-537bda3177c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan jawaban</value>
+      <webElementGuid>4ea611c0-4969-4b78-b34a-7cc00d5e5f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-48eadfc0b738da91b5a99a10e498d5d7</value>
+      <webElementGuid>d814e7e0-2dae-40b0-aed1-4bb625da6d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'captchaAnswer']</value>
+      <webElementGuid>04c71fdd-9d4b-4ed6-b9b8-99e9eaaf89a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'captchaAnswer']</value>
+      <webElementGuid>a9d8a943-50a4-4992-bc33-df2aa8dd36a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number' and @id = 'captchaAnswer' and @name = 'captchaAnswer' and @placeholder = 'Masukkan jawaban']</value>
+      <webElementGuid>e61bb45b-b8c2-499a-9b8e-ecfbd70aeb2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

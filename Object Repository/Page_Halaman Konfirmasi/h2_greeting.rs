@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_greeting</name>
+   <tag></tag>
+   <elementGuidId>ad5b7a00-437c-452f-9476-2fe174b0fed9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#greeting</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'greeting']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Selamat Siang!, Iyus Somantri&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>d4c6148c-6d83-440b-bf09-676bd5d0f83d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>greeting</value>
+      <webElementGuid>7f9a5438-09ee-494e-ad32-689f2a0d8531</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>greeting</value>
+      <webElementGuid>e8f57a91-be97-430f-9458-80109e27df9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selamat Siang!, Iyus Somantri</value>
+      <webElementGuid>738c301e-a836-4487-b22e-b46e7229ea3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-21ccde5f453745e22c40b6a1ca28dfe5</value>
+      <webElementGuid>5eecac01-cb2c-4b80-bafb-45b2952a3ec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'greeting']</value>
+      <webElementGuid>05d925ef-b191-4626-89ce-32ea96e60c6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'greeting']</value>
+      <webElementGuid>5a45fabc-b938-48ed-8d30-545b4785b0de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'greeting' and (text() = 'Selamat Siang!, Iyus Somantri' or . = 'Selamat Siang!, Iyus Somantri')]</value>
+      <webElementGuid>9fb1a392-d1ba-4335-bc2f-43e152d7461c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

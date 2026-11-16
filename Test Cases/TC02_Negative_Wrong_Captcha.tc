@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the system blocks form submission and displays an alert message (&quot;Penghitungan salah, silakan coba lagi.&quot;) when the user enters an incorrect Math CAPTCHA answer.</description>
+   <name>TC02_Negative_Wrong_Captcha</name>
+   <tag>negative</tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Iyus Somantri</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>9e0e235e-044b-4c0f-bbbe-62df7bed1b68</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2aa66448-ec08-435d-9156-1f16a084a3f6</testCaseGuid>
+</TestCaseEntity>
